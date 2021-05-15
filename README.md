@@ -1,7 +1,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yunusemrekayaoglu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yunus-emre-kayaoğlu-53115020a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dev.spanda/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SizofrenPanda)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrekayaoglu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemrekayaoglu&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrekayaoglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋, my name is Yunus Emre KAYAOĞLU
 
 Skills: Basic C# / C
