@@ -18,5 +18,4 @@ Skills: Basic C# / C
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yunusemrekayaoglu)  
 
-![dino](https://user-images.githubusercontent.com/77890503/118358262-b57c4f00-b586-11eb-8d29-f03724bbbfe5.gif)
 
