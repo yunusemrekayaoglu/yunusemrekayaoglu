@@ -11,10 +11,7 @@ Skills: Basic C# / C
 - 🌱 I’m currently learning C# 
 
 
-  
-
-![GitHub metrics](https://metrics.lecoq.io/yunusemrekayaoglu)  
-
+ 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yunusemrekayaoglu)  
 
 
