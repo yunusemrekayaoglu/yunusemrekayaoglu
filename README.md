@@ -5,7 +5,7 @@
 
 ### Hi there 👋, my name is Yunus Emre KAYAOĞLU
 
-Skills: Basic C# / C
+Skills: Basic C# / C++ / Python
 
 - 🔭 I’m a student
 - 🌱 I’m currently learning C# 
