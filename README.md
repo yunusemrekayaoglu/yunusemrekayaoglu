@@ -8,7 +8,7 @@
 Skills: Basic C# / C++ / Python
 
 - 🔭 I’m a student
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning QT right now 😊
 
 
  
