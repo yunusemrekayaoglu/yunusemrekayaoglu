@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-İletişim:
+Contact:
+
 [LinkedIn](https://www.linkedin.com/in/yunusemrekayaoglu/)
+[Instagram](https://www.instagram.com/yunusemrekayaoglu02/)
+[Mail](yunusemrekayaoglu02@gmail.com)
 
 <!--
 **yunusemrekayaoglu/yunusemrekayaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
