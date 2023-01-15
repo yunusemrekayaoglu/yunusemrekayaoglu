@@ -2,9 +2,11 @@
 
 Contact:
 
-[LinkedIn](https://www.linkedin.com/in/yunusemrekayaoglu/)\n
-[Instagram](https://www.instagram.com/yunusemrekayaoglu02/)\n
-[Mail]\n
+[LinkedIn](https://www.linkedin.com/in/yunusemrekayaoglu/)
+[Instagram](https://www.instagram.com/yunusemrekayaoglu02/)
+
+![Yunus Emre KAYAOGLU's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <!--
 **yunusemrekayaoglu/yunusemrekayaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
