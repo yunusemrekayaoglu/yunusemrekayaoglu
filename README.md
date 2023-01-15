@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+İletişim:
+[LinkedIn](https://www.linkedin.com/in/yunusemrekayaoglu/)
+
 <!--
 **yunusemrekayaoglu/yunusemrekayaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
