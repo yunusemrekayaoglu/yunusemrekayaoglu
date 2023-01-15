@@ -5,7 +5,7 @@ Contact:
 [LinkedIn](https://www.linkedin.com/in/yunusemrekayaoglu/)
 [Instagram](https://www.instagram.com/yunusemrekayaoglu02/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/yunusemrekayaoglu/github-readme-stats)
+[![YunusEmre's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemrekayaoglu02)](https://github.com/yunusemrekayaoglu/github-readme-stats)
 
 
 <!--
