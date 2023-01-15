@@ -7,6 +7,9 @@ Contact:
 
 [![YunusEmre's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemrekayaoglu&show_icons=true&theme=transparent)
 
+![YunusEmre's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemrekayaoglu&show_icons=true&theme=radical)
+
+
 
 
 <!--
