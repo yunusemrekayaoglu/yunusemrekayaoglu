@@ -1,13 +1,13 @@
 ### Hi there 👋, My name is Yunus Emre KAYAOĞLU
 
-
+First of all i hope u're day is good. I'm Yunus Emre KAYAOGLU. I'm currently studying at Karadeniz Technical University. My department is Statistic and Computer Science - 3. class. In my department, we're learning OOP(C++), Data Science Programs (Python, SPSS), Algorithm Design, Analytical Thinkin'... 
 
 
 # Skills: 
-   C++
-   SPSS
-   PYTHON
-   C#
+    C++
+    SPSS
+    PYTHON
+    C#
  
 
 
