@@ -3,11 +3,11 @@
 
 
 
-## Skills: 
-    C++
-    SPSS
-    PYTHON
-    C#
+# Skills: 
+   C++
+   SPSS
+   PYTHON
+   C#
  
 
 
