@@ -14,6 +14,31 @@ My department is Statistic and Computer Science(3). In my department, we're lear
 <br/>  
 
 
+
+
+
+
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/yunusemrekayaoglu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/yunusemrekayaoglu" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/yunusemrekayaoglu02" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/yunusemrekayaoglu" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -44,33 +69,7 @@ My department is Statistic and Computer Science(3). In my department, we're lear
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/yunusemrekayaoglu/yunusemrekayaoglu/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/yunusemrekayaoglu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yunusemrekayaoglu" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/yunusemrekayaoglu02" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/yunusemrekayaoglu" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 
 
@@ -78,6 +77,9 @@ My department is Statistic and Computer Science(3). In my department, we're lear
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunusemrekayaoglu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+
 
 
 ## Recent Blog Posts  
