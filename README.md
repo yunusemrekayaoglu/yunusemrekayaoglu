@@ -43,6 +43,11 @@ My department is Statistic and Computer Science(3). In my department, we're lear
 
 <br/>  
 
+<img src="https://raw.githubusercontent.com/yunusemrekayaoglu/yunusemrekayaoglu/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunusemrekayaoglu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
