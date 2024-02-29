@@ -38,6 +38,7 @@ My department is Statistic and Computer Science(3). In my department, we're lear
   
 
 
+## My skills  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
