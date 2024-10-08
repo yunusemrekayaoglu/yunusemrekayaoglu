@@ -4,7 +4,13 @@
 
 ### <div align="center">Hello 👋, I'm Yunus Emre!</div>  
 
-- First of all, I hope your day is good. I'm currently studying at **Karadeniz Technical University**. My department is **Statistics and Computer Science** (3). In my department, we're learning OOP (C++), Data Science Programs (Python, SPSS), Algorithm Design, Analytical Thinking, and more. I want to become a data scientist. Therefore, I am trying to learn as much as I can about data science.
+My name is Yunus Emre, I am 22 years old, and I graduated from **Karadeniz Technical University** with a degree in **Statistics and Computer Science**. Since I was young, being involved with computers has increased my interest in software and data science.
+
+I have intermediate knowledge of Python, which I have used to gain experience in data analysis and modeling projects. I have developed various projects involving data cleaning, visualization, and analysis, and through these projects, I have gained valuable insights.
+
+In the field of data science, I believe I have a strong foundation in statistical methods and algorithms. I have actively worked on understanding data sets, developing meaningful modeling techniques, and applying these models to real-world problems. I also contribute to effectively presenting data by using data visualization tools and techniques.
+
+In the future, I want to deepen my knowledge and skills in data science and analytics, and develop data-driven strategies and innovative solutions in this field.
 
 ## Current Position
 
