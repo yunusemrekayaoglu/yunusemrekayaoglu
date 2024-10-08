@@ -61,11 +61,4 @@ As a data science intern, I have been involved in:
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunusemrekayaoglu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-## Recent Blog Posts  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ozsghgufvp3gxmsgyarkeuu6r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=yunusemrekayaoglu&&style=flat-square)  
