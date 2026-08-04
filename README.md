@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:1E77B5&height=220&section=header&text=Yunus%20Emre%20Kayaoglu&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineer%20%7C%20ETL%2FELT%20%7C%20Lakehouse%20%26%20Data%20Governance&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </div>
 
-### <div align="center">Hi there, I'm Yunus Emre! 👋</div>
-
 <div align="center">
-  <strong>Data Engineer | Statistics & Computer Science Graduate | MSc Student</strong>
+  <a href="https://yunusemrekayaoglu.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=3670A0&center=true&vCenter=true&width=650&lines=Data+Engineer+%40+Hangikredi;Apache+Airflow+%7C+Spark+%7C+dbt+%7C+Iceberg;Building+Lakehouse+%26+Data+Governance;Statistics+%26+Computer+Science+MSc+Student" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
@@ -30,21 +30,31 @@
   </a>
 </div>
 
+<br />
+
 ---
 
 ### 🛠 Tech Stack & Tools
 
-**Languages & Core:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+<div align="center">
 
-**Data Engineering & Big Data:**
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat&logo=trino&logoColor=white) ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0468DB?style=flat&logo=apacheiceberg&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+**Languages & Core**
+<br />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Data Governance & BI:**
-![OpenMetadata](https://img.shields.io/badge/OpenMetadata-6A5ACD?style=flat&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+**Data Engineering & Big Data**
+<br />
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white) ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0468DB?style=for-the-badge&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps & Deployment:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+**Data Governance & BI**
+<br />
+![OpenMetadata](https://img.shields.io/badge/OpenMetadata-6A5ACD?style=for-the-badge&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+
+**DevOps & Deployment**
+<br />
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+</div>
 
 ---
 
@@ -72,16 +82,26 @@
 ---
 
 ### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusemrekayaoglu&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0" alt="Yunus Emre's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=yunusemrekayaoglu&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=8b949e" alt="Yunus Emre's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=yunusemrekayaoglu&layout=compact&theme=transparent&hide_border=true&title_color=3670A0&text_color=8b949e" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrekayaoglu&layout=compact&theme=transparent&hide_border=true&title_color=3670A0" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=yunusemrekayaoglu&theme=transparent&hide_border=true&ring=3670A0&fire=1E77B5&currStreakLabel=3670A0" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunusemrekayaoglu&theme=minimal&hide_border=true&bg_color=ffffff00&color=3670A0&line=1E77B5&point=3670A0" alt="Contribution Graph" width="90%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yunusemrekayaoglu&label=Profile%20Views&color=3670A0&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=yunusemrekayaoglu&label=Profile%20Views&color=3670A0&style=for-the-badge" alt="Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E77B5,100:3670A0&height=100&section=footer" width="100%" alt="footer" />
 </div>
