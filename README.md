@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:1E77B5&height=220&section=header&text=Yunus%20Emre%20Kayaoglu&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineer%20%7C%20ETL%2FELT%20%7C%20Lakehouse%20%26%20Data%20Governance&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="assets/header.svg" width="100%" alt="header" />
 </div>
 
 <div align="center">
@@ -103,5 +103,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E77B5,100:3670A0&height=100&section=footer" width="100%" alt="footer" />
+  <img src="assets/footer.svg" width="100%" alt="footer" />
 </div>
