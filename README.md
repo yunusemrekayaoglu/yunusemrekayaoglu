@@ -11,45 +11,6 @@ Data Vault 2.0 Lakehouse on Apache Spark, dbt & Iceberg
 Data governance & quality with OpenMetadata
 ```
 
-### How I think about data
-
-```mermaid
-flowchart LR
-    subgraph SRC["Sources"]
-        PG[(PostgreSQL)]
-        ES[(Elasticsearch)]
-        GA[GA4 / REST APIs]
-        MIO[(MinIO)]
-    end
-
-    subgraph ORCH["Orchestration"]
-        AF[Apache Airflow]
-    end
-
-    subgraph XFORM["Transform"]
-        SPARK[Apache Spark]
-        DBT[dbt]
-    end
-
-    LAKE[(Apache Iceberg<br/>Data Vault 2.0)]
-    GOV[OpenMetadata]
-
-    subgraph SERVE["Serve"]
-        TRINO[Trino]
-        MB[Metabase]
-        API[FastAPI]
-    end
-
-    PG --> AF
-    ES --> AF
-    GA --> AF
-    MIO --> AF
-    AF --> SPARK --> DBT --> LAKE
-    LAKE -. governed by .-> GOV
-    LAKE --> TRINO --> MB
-    LAKE --> API
-```
-
 ### Stack
 
 | | |
